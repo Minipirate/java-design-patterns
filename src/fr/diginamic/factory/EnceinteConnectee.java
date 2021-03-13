@@ -11,7 +11,6 @@ public class EnceinteConnectee extends ObjectConnecte{
 
 	public EnceinteConnectee(int limiteVolts) {
 		super(limiteVolts);
-
 	}
 
 }
