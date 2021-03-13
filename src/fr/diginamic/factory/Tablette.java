@@ -11,7 +11,7 @@ public class Tablette extends ObjectConnecte{
 
 	public Tablette(int limiteVolts) {
 		super(limiteVolts);
-		// TODO Auto-generated constructor stub
+
 	}
 
 }
